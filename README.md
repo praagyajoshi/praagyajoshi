@@ -11,6 +11,10 @@ Right now, I'm leading the Growth Engineering team at [Algolia](https://www.algo
 - focusing on user activation and plan upgrade/checkout experience
 - PLG (product led growth)
 
+---
+
+<a href="https://twitter.com/praagyajoshi" target="_blank"><img width="25" src="./images/twitter.svg"/></a>  <a href="https://www.linkedin.com/in/praagyajoshi/" target="_blank"><img width="25" src="./images/linkedin.svg"/></a>
+
 <!--
 **praagyajoshi/praagyajoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
